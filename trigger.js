@@ -7,3 +7,4 @@ console.log("added from develop in VS code");
 console.log("Changes only in DEV branch");
 
 const name="Vidya";
+const age=40;
